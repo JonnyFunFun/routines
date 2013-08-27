@@ -19,7 +19,7 @@ setup(
     keywords = "recurrence reoccuring routines routine tasks",
     url = "https://github.com/JonnyFunFun/routines",
     packages=['routines'],
-    long_description=read('README'),
+    long_description=read('README.rst'),
     classifiers=[
         "Development Status :: 4 - Beta",
         "Topic :: Software Development :: Libraries :: Python Modules",
