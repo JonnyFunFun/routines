@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: routines
-Version: 0.0.1
+Version: 0.0.2
 Summary: Provides a simple decorator for tasks (routines) to occur on a regular schedule
 Home-page: https://github.com/JonnyFunFun/routines
 Author: Jonathan Enzinna

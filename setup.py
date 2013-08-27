@@ -10,7 +10,7 @@ def read(fname):
 
 setup(
     name = "routines",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "Jonathan Enzinna",
     author_email = "jonnyfunfun@gmail.com",
     description = ("Routines is a simple package that provides a single decorator for you to mark "
